@@ -6,5 +6,11 @@
 }  
 
 .two {
-    
+    background-color: rgb(190, 190, 41);
+}
+
+.one,
+.two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
